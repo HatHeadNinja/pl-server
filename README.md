@@ -1,3 +1,5 @@
 # pl-server
 
-database and api server
+database and api server.
+
+- node
